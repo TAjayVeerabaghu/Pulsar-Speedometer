@@ -58,10 +58,7 @@ Class=CPulsarSpeedometerDlg
 [DLG:IDD_PULSARSPEEDOMETER_DIALOG (English (U.S.))]
 Type=1
 Class=?
-ControlCount=3
-Control1=IDOK,button,1342242817
-Control2=IDCANCEL,button,1342242816
-Control3=IDC_STATIC,static,1342308352
+ControlCount=0
 
 [DLG:IDD_ABOUTBOX (English (U.S.))]
 Type=1
